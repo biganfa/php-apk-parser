@@ -1,5 +1,5 @@
 {
-    "name": "tufanbarisyildirim/php-apk-parser",
+    "name": "biganfa/php-apk-parser",
     "type": "library",
     "description": "Read basic info about an application from .apk file.",
     "keywords": ["apk", "parser", "android"],
@@ -22,7 +22,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/tufanbarisyildirim/php-apk-parser.git"
+            "url": "https://github.com/biganfa/php-apk-parser"
         }
     ],
     "autoload": {
